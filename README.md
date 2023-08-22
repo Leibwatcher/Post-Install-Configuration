@@ -22,19 +22,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Login to the osTicket Admin Panel 
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Configure Help Desk
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Login with your user name and password into the osticket Admin Panel. Below is the admin/helpdesk User Interface (UI) that are in this ticketing sysem and also were the tickets are reflected that are created by the end user.
+  
+![Annotation 2023-08-06 180047](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/26ca9d8e-e870-49cd-ba82-113dc21f0fc5)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
