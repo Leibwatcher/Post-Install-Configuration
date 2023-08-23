@@ -8,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -26,7 +26,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Roles
 - Configure Departments
 - Configure Teams
-- Configure Help Desk
+- Configure SLA
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -38,19 +39,24 @@ Login with your user name and password into the osticket Admin Panel. Below is t
 </p>
 <p>
 
+Configure [Roles]
+
+First step is to "Configure Roles". This step gives granted permissions to Agents per Department that will allow them to access. Agents can have unlimmited number of Roles, which permissons can be checked and unchecked at anytime.
+1. Go to Admin Panel----> Agents----> Add new Roles
+
+2. Set agent's name to Supreme Admin
+
+
+Now we can enbable "Permissions" and since this is "Supreme Admin" all possible permissions are available.
+
+![Annotation 2023-08-06 174259](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/975fd45d-a5d1-4a2d-9324-1b78cb6e9f79)
+
+Congfigure [Departments]
+  
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
