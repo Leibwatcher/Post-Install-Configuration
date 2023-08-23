@@ -52,13 +52,51 @@ Now we can enbable "Permissions" and since this is "Supreme Admin" all possible 
 ![Annotation 2023-08-06 174259](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/975fd45d-a5d1-4a2d-9324-1b78cb6e9f79)
 
 Congfigure [Departments]
-  
+
+Tickets are set through Departments in the help desk world, there are many settings that can be set for each Departments.
+
+1. Admin panel--->Agents---->Deparments
+2. Then System Admininstrators
+3. Keep the remaining fields on default and review the selection that are available to choose from.
+
+![Annotation 2023-08-06 174718](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/419e6a62-72d9-4322-b10a-db69f3b9868a)
+
+Configure [Teams]
+
+Teams give you the ability to pull Agents from different Deparments to work on specific issues or ticket Filter.
+1. Admin Panel---->Agents----->Teams
+2. Level 1 Support
+3. level 2 Support
+
+In "User Settings" anyone is allowed to create a ticket
+It may be required for users registrator so they can create tickets, this help prevent random ticket or to limit Users accessibility to the help desk.
+1.Admin Panel--->Settings---->User Settings
+2. Click on and enable "Registration Required" Note not for this lab keep it unchecked.
+
+
+   ![Annotation 2023-08-06 175027](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/de380111-fdd6-4a66-a8a2-50833dd876cc)
+
+Configure [Agents (workers)]
+
+Creating and giving access to your "Agents(Worker)" to resovle tickets. They need to be assgined to deparments and a primary role for the tickets that will arise. Agents can be roled in more than one department and assigned to different rolesto thise departments; this could be configured in the access tab of the Agents's Profile.
+
+
+Admin Panel---->Agents---->Add New
+Two examples
+1.Tom
+2.Ayrn
+
+
+![Annotation 2023-08-06 175403](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/0b998369-c93e-4fae-90cd-3269223d8850)
+
+
+
 </p>
 <br />
 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
