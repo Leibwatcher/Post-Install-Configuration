@@ -64,12 +64,14 @@ Tickets are set through Departments in the help desk world, there are many setti
 Configure [Teams]
 
 Teams give you the ability to pull Agents from different Deparments to work on specific issues or ticket Filter.
+
 1. Admin Panel---->Agents----->Teams
 2. Level 1 Support
 3. level 2 Support
 
 In "User Settings" anyone is allowed to create a ticket
 It may be required for users registrator so they can create tickets, this help prevent random ticket or to limit Users accessibility to the help desk.
+
 1.Admin Panel--->Settings---->User Settings
 2. Click on and enable "Registration Required" Note not for this lab keep it unchecked.
 
@@ -82,6 +84,7 @@ Creating and giving access to your "Agents(Worker)" to resovle tickets. They nee
 
 
 Admin Panel---->Agents---->Add New
+
 Two examples
 1.Tom
 2.Ayrn
@@ -92,6 +95,7 @@ Two examples
 Configure [Users(customers)] 
 
 Users (customers) accounts can be created and log in to create a ticket and check on their status.
+
 Agent Panel---->Users--->Add New
 1.Kat
 2.Ron
