@@ -86,6 +86,7 @@ Creating and giving access to your "Agents(Worker)" to resovle tickets. They nee
 Admin Panel---->Agents---->Add New
 
 Two examples
+
 1.Tom
 2.Ayrn
 
@@ -97,6 +98,7 @@ Configure [Users(customers)]
 Users (customers) accounts can be created and log in to create a ticket and check on their status.
 
 Agent Panel---->Users--->Add New
+
 1.Kat
 2.Ron
 
