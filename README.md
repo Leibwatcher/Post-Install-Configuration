@@ -104,6 +104,36 @@ Agent Panel---->Users--->Add New
 
 ![Annotation 2023-08-06 180047](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/799a6d91-e9e1-491a-965d-adea1df62d83)
 
+
+Configure[SLA]
+
+SLA Plans or Service Level Agreements, these are unlimited in osTicket. This aloows are time length which a ticket must be completed or "closed"
+Admin Panel---->Manage---->SLA
+
+1.Sev-A (1 hour, 24/7)
+2.Sev-B (4 hours, 24/7)
+3.Sev-C (8 hours, business hours)
+
+![Annotation 2023-08-06 180928](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/02615cbe-2792-406a-898f-8b4db49129a0)
+
+
+Configure [Help Topics]
+
+Help Topics will keep end-user's help desk experience proper assignment and prompt response to the tickets. [Create as many Help Topics as needed]. 
+Admin Panel--->Manage---->Help Topics
+
+-Business Critical Outage
+-Personal Computer Issues
+-Equipment Request
+-Password Reset
+
+
+![Annotation 2023-08-06 181424](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/6eb4f2d3-bfdc-4817-b6c7-02016ac08026)
+
+
+
+![Annotation 2023-08-06 181424](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/9af3cd30-8ef7-448c-b778-0ef9133e9efe)
+
 </p>
 <br />
 
