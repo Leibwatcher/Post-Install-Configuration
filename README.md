@@ -89,7 +89,14 @@ Two examples
 
 ![Annotation 2023-08-06 175403](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/0b998369-c93e-4fae-90cd-3269223d8850)
 
+Configure [Users(customers)] 
 
+Users (customers) accounts can be created and log in to create a ticket and check on their status.
+Agent Panel---->Users--->Add New
+1.Kat
+2.Ron
+
+![Annotation 2023-08-06 180047](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/799a6d91-e9e1-491a-965d-adea1df62d83)
 
 </p>
 <br />
