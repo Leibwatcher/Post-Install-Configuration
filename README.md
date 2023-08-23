@@ -128,10 +128,6 @@ Admin Panel--->Manage---->Help Topics
 -Password Reset
 
 
-![Annotation 2023-08-06 181424](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/6eb4f2d3-bfdc-4817-b6c7-02016ac08026)
-
-
-
 ![Annotation 2023-08-06 181424](https://github.com/Leibwatcher/Post-Install-Configuration/assets/137578446/9af3cd30-8ef7-448c-b778-0ef9133e9efe)
 
 </p>
